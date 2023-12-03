@@ -19,9 +19,6 @@ Print both the values it would be interchanged
 End the program
 ## PROGRAM:
 ```
-#Program to swap two values
-#Developed by: Sai Darshini.R.S
-#Registernumber: 23007938
 x=input()
 y=input()
 z=x
